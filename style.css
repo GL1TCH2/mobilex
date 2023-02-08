@@ -1,0 +1,36 @@
+  .heading
+  {
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+    box-shadow:5px 5px 5px grey;
+    border-radius: 0 0 10px 10px;
+  }
+  .headingDiv
+  {
+    float: none;
+    padding: 10px;
+    background: white ; 
+    border-radius: 20px; 
+    color: black;
+    box-shadow:5px 5px 5px grey;
+  }
+  .headingDiv2
+  {
+    font-size: 18px ;
+  }
+  .resultToTag
+  {
+    box-shadow:5px 5px 5px grey;
+    font-size: 20px;
+  }
+
+  .copyRightFooter {
+    color: white;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    background-color: grey;
+    text-align: center;
+  }
+ 
